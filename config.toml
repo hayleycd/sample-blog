@@ -1,6 +1,6 @@
 baseURL = 'http://hayleycd.github.io/sample-blog'
 languageCode = 'en-us'
-title = 'Hayley's Blog'
+title = "Hayley's Blog"
 theme = "m10c"
 
 [params]
