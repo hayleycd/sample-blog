@@ -1,3 +1,18 @@
 baseURL = 'http://hayleycd.github.io/sample-blog'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hayley's Blog'
+theme = "m10c"
+
+[params]
+  author = "Hayley Denbraver"
+  description = "Just trying to learn Hugo"
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/hayleycd"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/hayleydenb"
